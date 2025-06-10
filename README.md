@@ -42,7 +42,7 @@ Requirements:-
 - Java Swing library for GUI components
 
 How to Run:-
-1. Clone the repository using git clone https://github.com/username/amazon-clone.git
+1. Clone the repository using git clone 
 2. Navigate to the project directory using cd amazon-clone
 3. Compile the application using javac src/com/amazonclone/*.java
 4. Run the application using java src/com/amazonclone/AmazonClone
